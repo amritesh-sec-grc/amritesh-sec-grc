@@ -18,21 +18,20 @@ Currently building at the intersection of privacy compliance, security framework
 🚀 Featured Work
 
  📋 Compliance & Risk Projects
-- [GDPR Compliance Assessment] - []
-  Privacy-by-design case study with adversarial analysis
-  
-- [GRC Risk Framework](link) - Threat-informed risk assessment methodology
-- [Tabletop Exercise Library](link) - Incident response scenarios combining IR + compliance
+ 
+- GDPR Compliance Assessment [] Privacy-by-design case study with adversarial analysis
+- GRC Risk Framework [] - Threat-informed risk assessment methodology
+- Tabletop Exercise Library [] - Incident response scenarios combining IR + compliance
 
 
  🔍 Threat Intelligence
-- [Threat Actor Analysis](link) - APT TTPs mapped to defensive controls
-- [Privacy Attack Vectors](link) - How attackers exploit compliance gaps
+- Threat Actor Analysis [] - APT TTPs mapped to defensive controls
+- Privacy Attack Vectors []  - How attackers exploit compliance gaps
 
 
  📚 Research & Resources
-- [Privacy Compliance Reference](link) - Active database of US/EU privacy laws and enforcement
-- [Security Frameworks Guide](link)** - NIST, ISO, PCI DSS implementation notes
+- Privacy Compliance Reference [] - Active database of US/EU privacy laws and enforcement
+- Security Frameworks Guide [] - NIST, ISO, PCI DSS implementation notes
 
 
 
@@ -46,16 +45,15 @@ Currently building at the intersection of privacy compliance, security framework
 
 📝 Writing & Research
 
-- Medium: [Your Medium Profile](link)
-- Research Notes: [Notion - Privacy & Compliance Library](link)
-- CTF & Labs: [HackTheBox Profile](link)
+- Medium: []
+- Research Notes: [ Notion ]
+- CTF & Labs: []
 
 
 
-🤝 Open Source Contributions [Cooming Soon]
-
-- [Project Name](link) - []
-- [Project Name](link) - []
+🤝 Open Source Contributions
+- [Project Name]- []
+- [Project Name] - []
 - More contributions → []
 
 
