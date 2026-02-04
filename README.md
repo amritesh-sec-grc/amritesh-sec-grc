@@ -15,6 +15,7 @@ Currently building at the intersection of privacy compliance, security framework
 
 
 
+
 🚀 Featured Work
 
  📋 Compliance & Risk Projects
@@ -24,14 +25,17 @@ Currently building at the intersection of privacy compliance, security framework
 - Tabletop Exercise Library [https://github.com/amritesh-sec-grc/tabletop-exercise-library] - Incident response scenarios combining IR + compliance
 
 
+
  🔍 Threat Intelligence
 - Threat Actor Analysis [https://github.com/amritesh-sec-grc/threat-actor-analysis] - APT TTPs mapped to defensive controls
 - Privacy Attack Vectors []  - How attackers exploit compliance gaps
 
 
+
  📚 Research & Resources
 - Privacy Compliance Reference [https://github.com/amritesh-sec-grc/privacy-compliance-reference] - Active database of US/EU privacy laws and enforcement
 - Security Frameworks Guide [] - NIST, ISO, PCI DSS implementation notes
+
 
 
 
@@ -43,6 +47,7 @@ Currently building at the intersection of privacy compliance, security framework
 
 
 
+
 📝 Writing & Research
 
 - Medium: []
@@ -51,10 +56,12 @@ Currently building at the intersection of privacy compliance, security framework
 
 
 
+
 🤝 Open Source Contributions
 - [Project Name]- []
 - [Project Name] - []
 - More contributions → []
+
 
 
 
