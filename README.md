@@ -18,7 +18,9 @@ Currently building at the intersection of privacy compliance, security framework
 🚀 Featured Work
 
  📋 Compliance & Risk Projects
-- [GDPR Compliance Assessment](link) - Privacy-by-design case study with adversarial analysis
+- [GDPR Compliance Assessment] - []
+  Privacy-by-design case study with adversarial analysis
+  
 - [GRC Risk Framework](link) - Threat-informed risk assessment methodology
 - [Tabletop Exercise Library](link) - Incident response scenarios combining IR + compliance
 
