@@ -72,3 +72,4 @@ Currently building at the intersection of privacy compliance, security framework
 
 All case studies and demonstrations use fictional scenarios, company names, and data to maintain privacy and avoid real-world conflicts. These projects are educational demonstrations of methodology, not actual client work.
 
+[Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
