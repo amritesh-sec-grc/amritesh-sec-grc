@@ -25,7 +25,7 @@ Currently building at the intersection of privacy compliance, security framework
 
 
  🔍 Threat Intelligence
-- Threat Actor Analysis [] - APT TTPs mapped to defensive controls
+- Threat Actor Analysis [https://github.com/amritesh-sec-grc/threat-actor-analysis] - APT TTPs mapped to defensive controls
 - Privacy Attack Vectors []  - How attackers exploit compliance gaps
 
 
