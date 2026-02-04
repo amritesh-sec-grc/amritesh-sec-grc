@@ -21,7 +21,7 @@ Currently building at the intersection of privacy compliance, security framework
  
 - GDPR Compliance Assessment [https://github.com/amritesh-sec-grc/gdpr-compliance-assessment] Privacy-by-design case study with adversarial analysis
 - GRC Risk Framework [] - Threat-informed risk assessment methodology
-- Tabletop Exercise Library [] - Incident response scenarios combining IR + compliance
+- Tabletop Exercise Library [https://github.com/amritesh-sec-grc/tabletop-exercise-library] - Incident response scenarios combining IR + compliance
 
 
  🔍 Threat Intelligence
