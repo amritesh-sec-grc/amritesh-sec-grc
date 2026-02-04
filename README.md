@@ -30,7 +30,7 @@ Currently building at the intersection of privacy compliance, security framework
 
 
  📚 Research & Resources
-- Privacy Compliance Reference [] - Active database of US/EU privacy laws and enforcement
+- Privacy Compliance Reference [https://github.com/amritesh-sec-grc/privacy-compliance-reference] - Active database of US/EU privacy laws and enforcement
 - Security Frameworks Guide [] - NIST, ISO, PCI DSS implementation notes
 
 
