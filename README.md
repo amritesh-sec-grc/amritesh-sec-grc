@@ -1,19 +1,3 @@
-## Hi there 👋
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...HWE
-- 🌱 I’m currently learning ...DFIR
-- 👯 I’m looking to collaborate on ...CTI
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...Data & Security
-- 📫 How to reach me: ...https://amritesh-sec.github.io/contact/
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...
-
-
-
 # amritesh-sec.github.io
 
 ![Live](https://img.shields.io/badge/status-live-00d4aa?style=for-the-badge)
