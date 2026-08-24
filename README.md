@@ -21,7 +21,7 @@ Personal cybersecurity research hub covering data protection, AI security, OSINT
 | [Threat-Intelligence](https://github.com/amritesh-sec/threat-intelligence) | Threat Intelligence | [↗](https://amritesh-sec.github.io/threat-intelligence/) |
 | [AI-Security-Hub](https://github.com/amritesh-sec/ai-security-lab) | AI Security & Jailbreaking | [↗](https://amritesh-sec.github.io/ai-security-lab/) |
 | [Data-Privacy-vault](https://github.com/amritesh-sec/data-privacy-vault) | GDPR & Data Protection | [↗](https://amritesh-sec.github.io/data-privacy-vault/) |
-| [Ai-Governance](https://github.com/amritesh-sec/ai-governance) | AI Governance | [↗](https://amritesh-sec.github.io/ai-governance/) |
+| [AI-Governance](https://github.com/amritesh-sec/ai-governance) | AI Governance | [↗](https://amritesh-sec.github.io/ai-governance/) |
 
 
 
