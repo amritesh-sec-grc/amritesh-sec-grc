@@ -22,8 +22,8 @@ Independent researcher across **application security**, **AI governance**, **dat
 | [threat-intelligence](https://github.com/amritesh-sec/threat-intelligence) | OSINT · Digital Risk · Cyber Crime · Breaches | ![Live](https://img.shields.io/badge/Live-e8621a?style=flat-square) |
 | [ai-governance](https://github.com/amritesh-sec/ai-governance) | EU AI Act · NIST AI RMF · ISO 42001 | ![Live](https://img.shields.io/badge/Live-d4af37?style=flat-square) |
 | [data-privacy-vault](https://github.com/amritesh-sec/data-privacy-vault) | GDPR · UK DPA · CCPA · HIPAA | ![Live](https://img.shields.io/badge/Live-4db8ff?style=flat-square) |
-| [security-engineering](https://github.com/amritesh-sec/security-engineering) | 10+ Open Source Security Tools | ![Comming Soon](https://img.shields.io/badge/Live-9b6ee8?style=flat-square) |
-| [incident-response](https://github.com/amritesh-sec/incident-response) | IR Playbooks · Tabletop · DFIR | ![Comming Soon](https://img.shields.io/badge/Live-e63950?style=flat-square) |
+| [security-engineering](https://github.com/amritesh-sec/security-engineering) | 10+ Open Source Security Tools | ![Comming Soon](https://img.shields.io/badge/Soon-9b6ee8?style=flat-square) |
+| [incident-response](https://github.com/amritesh-sec/incident-response) | IR Playbooks · Tabletop · DFIR | ![Comming Soon](https://img.shields.io/badge/Soon-e63950?style=flat-square) |
 
 ---
 
