@@ -1,7 +1,7 @@
 # Hi, I'm Amritesh 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/amritesh_sec?logo=twitter&style=for-the-badge&color=00d4aa&labelColor=0a0c10)](https://twitter.com/amritesh_sec)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00d4aa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0c10)](https://linkedin.com/in/amritesh-sec)
+
 [![GitHub followers](https://img.shields.io/github/followers/amritesh-sec?style=for-the-badge&color=00d4aa&labelColor=0a0c10&logo=github)](https://github.com/amritesh-sec)
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-00d4aa?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0a0c10)](https://github.com/sponsors/amritesh-sec)
 
@@ -11,7 +11,6 @@
 
 Independent researcher across **application security**, **AI governance**, **data protection**, **threat intelligence**, and **incident response** — publishing open research for the security community across **North America and Europe**.
 
-> Consulting via **[NordVault Security](https://nordvaultsec.github.io)** — GRC, AI Security, Data Protection, Fractional CISO.
 
 ---
 
