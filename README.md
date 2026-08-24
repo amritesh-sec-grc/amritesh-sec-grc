@@ -7,7 +7,7 @@
 
 ---
 
-## Cybersecurity Researcher & Advisor
+## Cybersecurity Researcher 
 
 Independent researcher across **application security**, **AI governance**, **data protection**, **threat intelligence**, and **incident response** — publishing open research for the security community across **North America and Europe**.
 
@@ -31,7 +31,7 @@ Independent researcher across **application security**, **AI governance**, **dat
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amritesh-sec&show_icons=true&theme=dark&bg_color=0a0c10&border_color=00d4aa&icon_color=00d4aa&title_color=00d4aa&text_color=c8d0e0&hide_border=false" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritesh-sec&layout=compact&theme=dark&bg_color=0a0c10&border_color=00d4aa&title_color=00d4aa&text_color=c8d0e0" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritesh-sec&layout=compact&theme=dark&bg_color=0a0c10&border_color=00d4aa&title_color=00d4aa&text_color=c8d0e0" alt= height="165"/>
 </p>
 
 <p align="center">
